@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/cwooz/react-MaterialUI/issues"
   },
-  "homepage": "https://github.com/cwooz/react-MaterialUI#readme"
+  "homepage": "https://github.com/cwooz/react-MaterialUI#readme",
+  "dependencies": {}
 }
