@@ -1,0 +1,19 @@
+{
+  "name": "react-materialize",
+  "version": "1.0.0",
+  "description": "simple image finder app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwooz/react-MaterialUI.git"
+  },
+  "author": "wooz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwooz/react-MaterialUI/issues"
+  },
+  "homepage": "https://github.com/cwooz/react-MaterialUI#readme"
+}
