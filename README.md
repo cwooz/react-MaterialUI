@@ -2,7 +2,11 @@
 
 Image-Finder, powered by [material-ui](https://material-ui.com/).
 
-##### Try version `1.0.0-beta` using the following [link](https://lit-ravine-74740.herokuapp.com/). Thanks!
+##### Try version `1.0.0-beta` using the following [link](https://lit-ravine-74740.herokuapp.com/).  Thanks!
+
+##### Please Note!
+>`The server hosting the app may be hibernating and take as much as 30 seconds to wake`  
+But it's pretty fast once it's up! :)
 
 ## Built Using
 
