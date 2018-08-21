@@ -1,5 +1,13 @@
-# react-materialUI
+# [Image-Finder-App](https://lit-ravine-74740.herokuapp.com/)
 
-# Simple Image Finder App { built using React / MaterialUI frameworks & The PixaBay API }
+Image-Finder, powered by [material-ui](https://material-ui.com/).
 
-![alt text](https://farm2.staticflickr.com/1881/30234022198_b60dd3d7f5_o.jpg)
+##### Try version `1.0.0-beta` using the following [link](https://lit-ravine-74740.herokuapp.com/). Thanks!
+
+## Built Using
+
+```javascript
+import { React, MaterialUI, Axios, PixaBayAPI } from "dependencies";
+```
+
+<img alt='Screen Shot' src="https://farm2.staticflickr.com/1881/30234022198_b60dd3d7f5_o.jpg" width="890">
